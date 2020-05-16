@@ -1,2 +1,2 @@
-# Cpp_Games
-Some simple C++ games
+# C++ Games
+Here are some simple C++ games I implemented in my engineering years.
