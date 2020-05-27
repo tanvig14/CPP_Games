@@ -10,4 +10,6 @@ Downloads for both are available on: https://www.cse.iitb.ac.in/~ranade/simplecp
 
 Once you execute the code, a blank canvas will appear. Go to the command prompt where you executed the program and provide input for the player names and board size, after which the game will appear on the canvas.
 
-Bear in mind that my friends and I wrote this code in FY engineering for fun when we were just beginning to learn to code so I'm sure it can be optimized. Maybe I will someday, but it works just fine for now. You can create an executable of the code and share it with your friends to play.
+Bear in mind that my friends and I wrote this code in FY engineering for fun when we were just beginning to learn to code so I'm sure it can be optimized. Maybe I will someday, but it works just fine for now. 
+
+I have uploaded an executable version of the game to run on a windows machine as well!
