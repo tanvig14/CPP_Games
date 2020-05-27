@@ -6,4 +6,6 @@ To install SimpleCpp on a linux system: https://www.cse.iitb.ac.in/~cs101/2015.2
 
 To install SimpleCpp on a windows system: https://www.it.iitb.ac.in/frg/wiki/images/6/6d/Cygwin_Manual.pdf
 
+Downloads for both are available on: https://www.cse.iitb.ac.in/~ranade/simplecpp/
+
 Bear in mind that my friends and I wrote this code in FY engineering for fun when we were just beginning to learn to code so I'm sure it can be optimized. Maybe I will someday, but it works just fine for now. You can create an executable of the code and share it with your friends to play.
