@@ -4,8 +4,6 @@ The game can be played by 2 players against each other as well as 1 player vs th
 
 Official website for windows and linux downloads of SimpleCpp: https://www.cse.iitb.ac.in/~ranade/simplecpp/
 
-To install SimpleCpp on a linux system: https://www.cse.iitb.ac.in/~cs101/2015.2/simplecpp%20installation%20slides%20in%20linux.pdf
-
 Once you execute the code, a blank canvas will appear. Go to the command prompt where you executed the program and provide input for the player names and board size, after which the game will appear on the canvas.
 
 I have uploaded an executable version of the game to run on a windows machine as well!
